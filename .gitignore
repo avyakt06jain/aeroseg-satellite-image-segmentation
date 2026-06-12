@@ -1,0 +1,23 @@
+# Dataset and Heavy Assets
+data/raw/
+data/processed/
+checkpoints/
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache and Compilation
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Execution Artifacts
+logs/
+outputs/
+
+# OS / Editor specific
+.DS_Store
+.vscode/
+.idea/
