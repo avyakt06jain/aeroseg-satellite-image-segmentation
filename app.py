@@ -481,10 +481,13 @@ def main() -> None:
                     with cols[i % len(cols)]:
                         img = Image.open(img_path)
                         st.image(img, caption=img_path.name, use_container_width=True)
-
     # ═══ Tab 3: How It Works ══════════════════════════════════════
     with tab3:
         st.header("How It Works")
+
+        st.subheader("📽️ Project Demo")
+        st.video("https://www.youtube.com/watch?v=CMgZzurt0eM")
+        st.divider()
 
         st.markdown("""
         ### Overview
