@@ -11,15 +11,13 @@
 
 ## 🎥 Project Demo
 
-> **Note to recruiters and users:** Click the image below to watch a full video walkthrough of the AeroSeg platform in action, including the interactive dashboard and real-time segmentation.
+> **Note to users:** Click the image below to watch a full video walkthrough of the AeroSeg platform in action, including the interactive dashboard and real-time segmentation.
 
-[![AeroSeg Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
-*(Replace `YOUR_VIDEO_ID_HERE` with your actual YouTube video ID once uploaded)*
+[![AeroSeg Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=CMgZzurt0eM)
 
 ---
 
-## 🎯 Why AeroSeg? (For Interviewers & Recruiters)
+## 🎯 Why AeroSeg?
 
 This project demonstrates a full-stack, production-ready AI solution rather than just a standalone Jupyter Notebook. It highlights several key engineering competencies:
 
