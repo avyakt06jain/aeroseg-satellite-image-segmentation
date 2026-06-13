@@ -11,9 +11,9 @@
 
 ## 🎥 Project Demo
 
-> **Note to users:** Click the image below to watch a full video walkthrough of the AeroSeg platform in action, including the interactive dashboard and real-time segmentation.
+> **Note to recruiters and users:** Click the image below to watch a full video walkthrough of the AeroSeg platform in action, including the interactive dashboard and real-time segmentation.
 
-[![AeroSeg Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=CMgZzurt0eM)
+[![AeroSeg Demo Video](https://img.youtube.com/vi/CMgZzurt0eM/maxresdefault.jpg)](https://www.youtube.com/watch?v=CMgZzurt0eM)
 
 ---
 
